@@ -26,11 +26,27 @@ The instructions for installing the firmware can be found at the official [GP204
 
 ## Printing
 Buttons:
-The files for the arcade buttons will not be provided as they are standard 24mm and 30mm buttons, and many files already exist online.
+The arcade buttons printed were from a design by Long on [Printables](https://www.printables.com/model/148297-better-printed-arcade-button-kailh-choc-v1-low-pro). This is not required as any button design that are the standard 24mm and 30mm diameters and have Choc V1 stems work as well.
+- This design in particular requires gluing the stems onto the keycap, but other designs may not need to do this.
 
 Menu Buttons: 
-The menu buttons follow the same dimensions as standard Choc V1 keyboard keycaps (16.5mm x 17.5mm).
+The menu buttons were remixed from Long's design and follow the same dimensions as standard Choc V1 keyboard keycaps (16.5mm x 17.5mm), only with taller walls.
+- These also have stems that must be glued on, but other designs can be used instead.
 
-The rest of the parts can be printed as they are. The horizontal expansion in the slicer settings may have to be modified so that the switches fit properly.
+The rest of the parts can be printed as they are in their default orientations. The horizontal expansion in the slicer settings may have to be modified so that the switches and buttons fit properly.
 
 ## Assembly
+![Assembly Render](/pictures/Assembly_Render.png) 
+
+
+## License
+Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd] 
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
